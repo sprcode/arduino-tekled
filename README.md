@@ -8,3 +8,4 @@ Arduino Uno’ya herhangi bir bileşen eklemeden sadece kod mantığı ve akış
 
 <h3> Bağlantı Şeması :
 	
+![tek-led](https://user-images.githubusercontent.com/47007407/51700096-5b56c900-201f-11e9-9cb5-268085a402a8.png)
